@@ -1,2 +1,2 @@
 # Material-Java-Script
-Repositório com os estudo de Java Script que estou realizando
+Repositório com estudso de Java Script.
